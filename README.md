@@ -1,2 +1,2 @@
 # tichu
-Tichu game in C++ (no gui)
+Tichu game in C++
