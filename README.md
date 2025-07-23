@@ -1,2 +1,2 @@
 # tichu
-Tichu game in C++
+Command line Tichu game implemented in C++
